@@ -1,2 +1,2 @@
 # learn-project
-教学项目
+炸金花游戏
